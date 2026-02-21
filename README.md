@@ -1,4 +1,3 @@
-Data Engineering Challenge - Fasters 
 Este teste consiste em um pipeline de dados utilizando a Arquitetura Medalhão (Bronze, Silver e Gold) para processar dados de vendas, pessoas e avaliações, extraindo métricas estratégicas de desempenho.
 Tecnologias e Ambiente
 •	Sistema Operacional: Linux (WSL2 - Ubuntu)
