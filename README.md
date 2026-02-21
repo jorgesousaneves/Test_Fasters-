@@ -1,5 +1,4 @@
-cat << 'EOF' > README.md
-Teste Fasters 🚀
+Teste Fasters 
 
 Este teste consiste em um pipeline de dados utilizando a Arquitetura Medalhão (Bronze, Silver e Gold) para processar dados de vendas, pessoas e avaliações, extraindo métricas estratégicas de desempenho.
 
